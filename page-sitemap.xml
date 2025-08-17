@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-08-17T20:19:21+00:00</lastmod>
+		<lastmod>2025-08-17T23:01:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/WhatsAppButtonGreenSmall.png</image:loc>
 		</image:image>
@@ -18,32 +18,26 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/IMG_0534-scaled.jpeg</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/WhatsAppButtonGreenSmall.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Checkatrade_Logo_2023.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/contact-window-hero-book-window-cleaning-in-swindon/</loc>
-		<lastmod>2025-08-17T20:07:03+00:00</lastmod>
+		<lastmod>2025-08-17T23:16:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/about-window-hero-window-cleaning-in-swindon/</loc>
-		<lastmod>2025-08-17T20:05:43+00:00</lastmod>
+		<lastmod>2025-08-17T23:14:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/window-cleaning-faqs-window-hero/</loc>
+		<lastmod>2025-08-17T22:57:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/window-and-gutter-cleaning-prices-in-swindon-window-hero/</loc>
-		<lastmod>2025-08-17T19:55:48+00:00</lastmod>
+		<lastmod>2025-08-17T22:38:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/window-cleaning-in-swindon-surrounding-areas-window-hero/</loc>
 		<lastmod>2025-08-17T19:54:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/window-cleaning-faqs-window-hero/</loc>
-		<lastmod>2025-08-16T23:48:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/solar-panel-cleaning-in-swindon-window-hero/</loc>
