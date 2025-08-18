@@ -1,21 +1,27 @@
-# Allow everything (including AI crawlers)
+# Robots.txt for Window Hero UK
+# Last updated: August 2025
+
+# Default rule: allow all crawlers
 User-agent: *
 Disallow:
 
-# Explicitly allow common AI/data crawlers
-User-agent: GPTBot
+# --- Search engines ---
+User-agent: Googlebot
 Disallow:
 
-User-agent: ClaudeBot
+User-agent: GoogleOther
 Disallow:
 
-User-agent: CCBot
+User-agent: Bingbot
 Disallow:
 
-User-agent: PerplexityBot
+User-agent: DuckDuckBot
 Disallow:
 
-User-agent: Meta-ExternalAgent
+User-agent: Baiduspider
+Disallow:
+
+User-agent: Yandex
 Disallow:
 
 User-agent: Applebot
@@ -24,11 +30,21 @@ Disallow:
 User-agent: Amazonbot
 Disallow:
 
-# Google AI uses GoogleOther + Google-Extended product token.
-# Allow them by not blocking GoogleOther and (optionally) Google-Extended:
-User-agent: Googlebot
+# --- AI crawlers ---
+User-agent: GPTBot
 Disallow:
-User-agent: GoogleOther
+
+User-agent: CCBot
 Disallow:
-User-agent: Google-Extended
+
+User-agent: ClaudeBot
 Disallow:
+
+User-agent: PerplexityBot
+Disallow:
+
+User-agent: Meta-ExternalAgent
+Disallow:
+
+# --- Sitemaps ---
+Sitemap: https://windowhero.uk/sitemap_index.xml
