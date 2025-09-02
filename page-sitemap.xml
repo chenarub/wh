@@ -2,30 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-09-02T02:21:07+00:00</lastmod>
+		<lastmod>2025-09-02T11:49:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/Modern-Home-with-Reflective-Glass-Door-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/window_cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/fascia_cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Gutter_Cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/ChatGPT-Image-Aug-25-2025-at-06_01_26-PM.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/solar_cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/patio_cleaning.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/customer-service-2.png</image:loc>
@@ -38,6 +20,64 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/ChatGPT-Image-Aug-25-2025-at-11_34_02-PM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/free-quote/</loc>
+		<lastmod>2025-09-02T11:51:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/services/</loc>
+		<lastmod>2025-09-02T11:44:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/Modern-Home-with-Reflective-Glass-Door-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/customer-service-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/chemical-element.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/quality.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/ChatGPT-Image-Aug-25-2025-at-11_34_02-PM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/soffit-fascia-cleaning/</loc>
+		<lastmod>2025-09-02T11:42:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/Modern-Home-with-Reflective-Glass-Door-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/IMG_0530-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/IMG_0531-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/IMG_0533-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/IMG_0534-scaled.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/privacy-policy/</loc>
+		<lastmod>2025-09-02T11:03:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -81,35 +121,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/free-quote/</loc>
-		<lastmod>2025-09-02T00:22:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/soffit-fascia-cleaning/</loc>
-		<lastmod>2025-09-02T00:21:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Modern-Home-with-Reflective-Glass-Door-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_0530-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_0531-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_0533-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/IMG_0534-scaled.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/solar-panel-cleaning/</loc>
 		<lastmod>2025-09-01T17:01:16+00:00</lastmod>
 		<image:image>
@@ -120,46 +131,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/</loc>
-		<lastmod>2025-09-01T17:00:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Modern-Home-with-Reflective-Glass-Door-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/window_cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/fascia_cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/Gutter_Cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/ChatGPT-Image-Aug-25-2025-at-06_01_26-PM.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/solar_cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/patio_cleaning.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/customer-service-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/chemical-element.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/quality.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/ChatGPT-Image-Aug-25-2025-at-11_34_02-PM.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/reviews/</loc>
 		<lastmod>2025-09-01T17:00:24+00:00</lastmod>
 		<image:image>
@@ -167,13 +138,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/Modern-Home-with-Reflective-Glass-Door-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/privacy-policy/</loc>
-		<lastmod>2025-09-01T16:59:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/wh_logo_clothing-scaled.png</image:loc>
 		</image:image>
 	</url>
 	<url>
