@@ -1,0 +1,9 @@
+/*
+Theme Name:     2025_child
+Template:       twentytwentyfive
+
+This is the child theme for Twenty Twenty-Five theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("/wp-content/themes/twentyseventeen/rtl.css");
